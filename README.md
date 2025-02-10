@@ -5,7 +5,7 @@ Welcome to my repository! Here you will find my certificates and code samples fr
 ## 🍯 Certificates  
 Contains my certificates in programming and development.  
 
-## 🥐 Programming Languages  
+## 🥐 Languages  
 - Python  
 - Java    
 
