@@ -7,13 +7,13 @@ Contains my certificates in programming and development.
 
 ## 🥐 Programming Languages  
 - Python  
-- Java  
-- JavaScript  
-- SQL  
+- Java    
 
 ## 🍞 Web Technologies  
 - HTML  
-- CSS  
+- CSS
+- JavaScript
+- SQL
 
 ## 🍯 Web Stack  
 - **Frontend:** HTML, CSS, JavaScript  
