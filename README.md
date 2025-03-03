@@ -18,10 +18,7 @@ This section contains my **certifications** in programming, web development, and
 - **SQL**  
 
 ## 🛠️ Web Stack  
-### **Frontend**  
-🔹 HTML, CSS, JavaScript  
-
-### **Backend**  
-🔹 Java, Python, SQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Java, Python, SQL  
 
 ---
